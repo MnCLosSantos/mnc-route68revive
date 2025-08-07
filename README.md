@@ -1,5 +1,5 @@
 # mnc-route68revive
-## a simple revive to make use of the used dealership as a job
+## A simple revive to make use of the used dealership as a job
 
 1 - Put "mnc-route68revive" into resource folder
 
