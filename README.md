@@ -3,15 +3,15 @@
 
 1 - Put "mnc-route68revive" into resource folder
 
-2 - ensure mnc-route68revive in server.cfg
+2 - Ensure mnc-route68revive in server.cfg
 
-3 - copy config.lua from "qb-vehiclesales-config"
+3 - Copy config.lua from "qb-vehiclesales-config"
 
-4 - go too qb-vehiclesales and replace the config
+4 - Go too qb-vehiclesales and replace the config
 
-5 - delete install folder if want to
+5 - Delete install folder if want to
 
-6 - restart server
+6 - Restart server
 
 
 <img width="1920" height="1080" alt="FiveM® by Cfx re - Midnight Club Los Santo's 07_08_2025 15_29_57" src="https://github.com/user-attachments/assets/7f4aaf39-0689-4351-a8b8-f932129cab00" />
